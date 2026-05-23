@@ -1,5 +1,1 @@
-/*
-  Netlify Redirects for Single Page Applications (SPA)
-  Any route that doesn't match a static file should serve index.html
-*/
 /*  /index.html  200
